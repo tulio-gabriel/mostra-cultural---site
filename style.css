@@ -135,7 +135,7 @@ p{
     margin-bottom: 20px;
 }
 #tematica{
-    background-image: url('./img/quadro4.png');
+    background-image: url('img/quadro4.png');
     background-size: cover;
     background-position: center;
     border-radius: 10px;
